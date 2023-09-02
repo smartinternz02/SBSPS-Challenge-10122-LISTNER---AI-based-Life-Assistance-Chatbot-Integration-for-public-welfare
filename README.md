@@ -1,11 +1,17 @@
 # SBSPS-Challenge-10122-LISTNER---AI-based-Life-Assistance-Chatbot-Integration-for-public-welfare
+
+
 LISTNER - AI-based Life Assistance Chatbot Integration for public welfare
+
 Team Name :  GRAYMOON
+
 Team Size : 4
+
 Project   : LISTNER - AI-based Life Assistance Chatbot Integration for public welfare
 
 Description:
-        The chatbot will be created to offer help and support in a variety of areas, including reporting domestic violence, receiving mental health therapy, finding a job, and finding emergency contacts. The Python web framework Flask will be used to create the chatbot. The chatbot will use OpenAI GPT or a comparable NLP API to comprehend user inquiries and provide helpful responses. To extract emotional information from voice/text.the chatbot will use sentiment analysis API. This will allow the chatbot to offer sympathetic and individualized help. For sending SMS or MMS, 
+
+The chatbot will be created to offer help and support in a variety of areas, including reporting domestic violence, receiving mental health therapy, finding a job, and finding emergency contacts. The Python web framework Flask will be used to create the chatbot. The chatbot will use OpenAI GPT or a comparable NLP API to comprehend user inquiries and provide helpful responses. To extract emotional information from voice/text.the chatbot will use sentiment analysis API. This will allow the chatbot to offer sympathetic and individualized help. For sending SMS or MMS, 
         the chatbot will make use of the Twilio API or a comparable tool.
 
   It is a Assistant with artificial intelligence (AI) that may offer support in a range of areas, including domestic abuse, mental health, career advice, and emergency contacts.
@@ -21,12 +27,18 @@ This assistant initiative may also aid those who are suffering to live better li
 The project might also assist in educational support and people may seek assistance when they need it as a result of this.
 Technology Architecture:
 
-BACKEND INFRASTRUCTURE
+BACKEND INFRASTRUCTURE:
+
   FLASK 
+  
   Python
+  
   Natural language processing(NLP)
+  
   IBM Watson
+  
   Sentiment Analysis
+  
   Messaging platform Integration
 
 SUPPORT AND MAINTAINCE:
