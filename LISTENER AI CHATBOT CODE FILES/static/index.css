@@ -1,23 +1,12 @@
         body {
             font-family: Arial, sans-serif;
             background :linear-gradient(45deg,rgba(255, 166, 0, 0.568),rgba(230, 230, 22, 0.892),rgba(255, 0, 0, 0.503), #ff008c99, #0026ff);
-              /*
-            
-            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7St8zOCUHjfztJUTWp6jNJmvskKaSptniA&usqp=CAU);
-            background-repeat: no-repeat;
-          
-            background-position: center;
-            background-size: cover;
-            background-origin: initial;
-            background-clip: initial;    */
             margin: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
         }
-
-
 
         h1 {
             margin-top: 0;
@@ -87,8 +76,6 @@
         }
     }
 
-
-    /* Header */
     .codrops-header {
         position: relative;
         display: flex;
@@ -106,8 +93,6 @@
         font-weight: 700;
         font-size: 1em;
     }
-
-    /* Top Navigation Style */
     .codrops-links {
         position: relative;
         display: flex;
